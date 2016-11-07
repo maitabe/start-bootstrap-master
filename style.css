@@ -49,3 +49,15 @@ section {
   font-weight: 400;
   margin-bottom: 75px;
 }
+
+section#services {
+    margin-top: 10px;
+}
+
+section#services h1 {
+    margin: 0;
+}
+
+section#services p {
+    margin-bottom: 40px;
+}
